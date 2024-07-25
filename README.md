@@ -1,3 +1,3 @@
-## Screenshot
+             # Frontend Mentor - Blog preview card
 
-[Screenshot of blog-preview-card](/Users/tryskall/Desktop/FrontEndMentor/blog-preview-card-main/assets/images/Screenshot.jpeg)
+![Design preview for the Blog preview card coding challenge](./preview.jpg)
