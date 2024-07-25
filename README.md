@@ -38,7 +38,7 @@ there are to be :hover and :focus effects implemented.
 
 ## Links
 
-- Solution Code URL: [GitHub Repository](https://github.com/Tryskall/QR-Code/blob/main/README.md)
+- Solution Code URL: [GitHub Repository](https://github.com/Tryskall/QR-Code/blob/main)
 - Live Page URL: [Blog-preview-card hosted on GitHubPages](https://tryskall.github.io/BlogPreviewCard/)
 
 ## My Process
